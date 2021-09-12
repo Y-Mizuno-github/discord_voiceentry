@@ -6,4 +6,5 @@
 ### 使い方
 変数 **TOKEN** 、 **TEXT_CHANNEL** にbotのトークン、通知送信先のテキストチャンネルIDを入力することで利用可能です。
 
-
+### Reference
+https://tech-cci.io/archives/6412
